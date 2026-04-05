@@ -30,8 +30,13 @@ Can nudging customers toward card payments generate higher revenue for drivers?
 ---
 
 ## Key Findings
+
+<img width="1160" height="622" alt="image" src="https://github.com/user-attachments/assets/638eedf9-aca1-44f9-8816-5ce028eb349e" />
+
 - Card payments account for **67.5%** of all transactions
 - Card avg fare: **$13.70** vs Cash avg fare: **$12.25** (~11.8% higher)
+<img width="1050" height="592" alt="image" src="https://github.com/user-attachments/assets/c9bd7510-4474-4617-b082-2ec2fe96460f" />
+
 - Card avg trip distance: **3.23 miles** vs Cash: **2.80 miles**
 - T-statistic: **165.5**, p-value **< 0.05** → reject null hypothesis
 - Single-passenger rides dominate both payment types (40% card, 20% cash)
