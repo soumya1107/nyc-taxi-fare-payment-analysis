@@ -25,7 +25,7 @@ Can nudging customers toward card payments generate higher revenue for drivers?
 |------|-------------|
 | Descriptive Analysis | Summary stats on fare amount and payment type distribution |
 | Hypothesis Testing | T-test comparing average fares across payment methods |
-| Regression Analysis | Linear regression of trip duration vs fare amount |
+| Regression Analysis (Future Scope) | Linear regression of trip duration vs fare amount |
 
 ---
 
